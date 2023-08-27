@@ -1,5 +1,3 @@
-import 'dart:math';
-
 void main() {
   List<int> data = [7, 5, 3, 5, 2, 1];
   int hasil = Hitung(data);

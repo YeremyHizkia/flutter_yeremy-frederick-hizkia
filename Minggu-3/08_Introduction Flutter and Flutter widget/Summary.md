@@ -1,3 +1,5 @@
+Nama		: Yeremy Frederick Hizkia Sitorus
+Program	    : Flutter - A 
 Tugas		: Introduction Flutter Widget
 
 

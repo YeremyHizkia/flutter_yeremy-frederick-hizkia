@@ -1,3 +1,5 @@
+Nama		: Yeremy Frederick Hizkia Sitorus
+Program	    : Flutter - A 
 Tugas		: Deep Dive Into Dart Object Oriented Programming
 
 3 poin yang saya pelajari pada materi ini:

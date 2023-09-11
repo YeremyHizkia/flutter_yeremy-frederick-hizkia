@@ -13,3 +13,4 @@ Tugas		: Resume Platform Widget
 Atau bisa diakses melalui Link Google Docs berikut:
 
 https://docs.google.com/document/d/1vYrZ28pOrPCe42KvXAr_BXSTNmB_mddIoWvnvSKDZR4/edit?usp=sharing
+

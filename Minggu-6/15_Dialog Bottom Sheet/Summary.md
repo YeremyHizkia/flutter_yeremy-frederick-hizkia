@@ -49,4 +49,3 @@ Tugas		: Dialog Bottom Sheets
 Atau bisa diakses melalui Link Google Docs berikut:
 https://docs.google.com/document/d/1XT9ySNMMMc6XDre5jitO2N5eDO1oF-R9xP4CqK7AtBA/edit?usp=sharing
 
-![Alt text](image.png)

@@ -12,5 +12,3 @@ Tugas		: Flutter State Management (Provider)
 
 Atau bisa diakses melalui Link Google Docs berikut:
 https://docs.google.com/document/d/1xhOwL9dg5VYKx5IWLN5Dg_qIK4huYL5kbJ5C0Fw48FA/edit?usp=sharing
-
-

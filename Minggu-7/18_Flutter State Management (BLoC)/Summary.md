@@ -13,3 +13,5 @@ Tugas		: Flutter State Management (BLoC)
 
 Atau bisa diakses melalui Link Google Docs berikut:
 https://docs.google.com/document/d/1YHTc6fVMHRd9AoJDNVjrm7Zm9KtonmfzMKUkdVMz4Vw/edit?usp=sharing
+
+![Alt text](image.png)

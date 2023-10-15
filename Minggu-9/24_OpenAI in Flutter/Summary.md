@@ -1,5 +1,5 @@
 Nama		: Yeremy Frederick Hizkia Sitorus
-Program	: Flutter - A 
+Program	    : Flutter - A 
 Tugas		: Resume UI Testing
 
 

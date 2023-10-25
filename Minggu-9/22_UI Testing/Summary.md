@@ -4,7 +4,7 @@ Tugas		: Resume UI Testing
 
 
 3 poin yang saya pelajari pada materi ini:
-    1. Merupakan sebuah pengujian terhadap suatu tampilan pada aplikasi untuk memastikan aplikasi tersebut dapat menerima interaksi serta memberikan respon kepada pengguna.
+    1. UI Testing merupakan pengujian yang dilakukan pada tampilan suatu aplikasi untuk memastikan aplikasi dapat menerima interaksi dan memberi respon kepada user atau pengguna. UI testing pada flutter disebut juga widget testing sehingga pengujian dilakukan pada widgets dengan menuliskan script (code) yang dapat dijalankan secara otomatis. Keuntungan UI testing yaitu untuk memastikan seluruh widget memberi tampilan yang sesuai, memastikan seluruh interaksi dapat diteima dengan baik, juga menjadi ketentuan yang harus diikuti saat diperlukan perubahan pada widget.
 
     2. Untuk melakukan sebuah pengujian kita tidak perlu lagi menginstal sebuah package khusus untuk Testing, dikarenakan package testing sudah ter-install sejak proyek pertama kali di build (dibuat). Dan hal itu terdapat pada folder bernama test. Untuk menambahkan sebuah testing baru, hendaknya disertai _test.dart pada penamaan filenya. Contoh: profile_test.dart.
 

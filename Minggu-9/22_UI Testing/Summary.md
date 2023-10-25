@@ -16,4 +16,3 @@ Tugas		: Resume UI Testing
 
 Atau bisa diakses melalui Link Google Docs berikut:
 https://docs.google.com/document/d/1k-0C8l_TqLgDpmy258ELhB0VbUjTWwmyfND3aCY8AwA/edit?usp=sharing
-![Alt text](image.png)

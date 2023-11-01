@@ -1,14 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:save/page/Splash_screen.dart';
-import 'package:save/page/Welcome Page/Home.dart';
-import 'package:save/page/Welcome Page/Login.dart';
-import 'package:save/page/Welcome Page/Welcome.dart';
+import 'package:save/page/Welcome%20Page/home.dart';
+import 'package:save/page/Welcome%20Page/login.dart';
+import 'package:save/page/Welcome%20Page/welcome.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

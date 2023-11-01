@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:save/utils/Manager.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:save/page/Contact_page/Contact_page.dart';
+import 'package:save/page/Contact_page/contact.dart';
 
 class HomeScreen extends StatefulWidget {
   @override

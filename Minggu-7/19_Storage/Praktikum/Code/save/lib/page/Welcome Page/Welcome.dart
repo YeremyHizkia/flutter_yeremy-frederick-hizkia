@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:save/page/Welcome%20Page/Login.dart';
-import 'package:save/page/Welcome%20Page/SignUp.dart';
+import 'package:save/page/Welcome%20Page/login.dart';
+import 'package:save/page/Welcome%20Page/signup.dart';
 
 class WelcomePage extends StatelessWidget {
   @override

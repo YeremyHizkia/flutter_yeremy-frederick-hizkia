@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:save/page/Welcome%20Page/Login.dart';
+import 'package:save/page/Welcome%20Page/login.dart';
 import 'package:save/utils/Manager.dart';
 
 class SignUpScreen extends StatefulWidget {

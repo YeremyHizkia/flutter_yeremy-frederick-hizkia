@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:save/Model/Contact_Model.dart';
+import 'package:save/Model/contact_model.dart';
 import 'package:save/page/Contact_page/widget/header_contact_page.dart';
 import 'package:save/theme/theme_color.dart';
 import 'package:save/theme/theme_font_style.dart';
@@ -33,8 +33,8 @@ class _ContactPageState extends State<ContactPage> {
     setState(() {});
   }
 
-  TextEditingController _nameController = TextEditingController();
-  TextEditingController _phoneController = TextEditingController();
+  final TextEditingController _nameController = TextEditingController();
+  final TextEditingController _phoneController = TextEditingController();
 
   int EditIndex = -1;
 
